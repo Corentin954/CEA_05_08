@@ -1,0 +1,1 @@
+gcc main_RKint_so.c EOS.c phibar.c allocfree.c -lm

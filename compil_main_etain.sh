@@ -1,0 +1,1 @@
+gcc main_etain.c EOS_etain.c EOS.c func.c cal_front.c allocfree.c funcGtot_etain.c funcRKint_etain.c funcBBC_JCP2009_etain.c funcBBC_PRED_CORR_etain.c funcBBC_RK2av_etain.c funcvNR_etain.c funcKOVA_etain.c -lm 

@@ -1,0 +1,1 @@
+gcc cal_PU.c  -lm

@@ -1,0 +1,1 @@
+gcc main.c EOS.c func.c allocfree.c funcGtot.c funcRKint.c funcBBC_JCP2009.c funcBBC_PRED_CORR.c funcBBC_RK2av.c funcvNR.c funcKOVA.c -lm 
